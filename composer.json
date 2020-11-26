@@ -2,7 +2,7 @@
     "name": "dertechie/datamapping",
     "description": "Der Techie Data Mapping library for a consistent way of coping around with Data Mapping.",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mike Esser",
